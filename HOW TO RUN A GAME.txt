@@ -1,0 +1,1 @@
+Just open the .py extension file and copy paste the provided URL in your browser(Preferably chrome).
