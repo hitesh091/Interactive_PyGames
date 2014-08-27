@@ -1,0 +1,7 @@
+Mini-project description - RiceRocks (Asteroids)
+
+=================================================
+
+A single-player video game. Just save your ship against the rocks by shooting(SPACEBAR) them and hence generating higher scores. You've got 3 lives to do so. Yippy!  
+
+Note: Graphics are provided by the coursera team but implementation is mine :P.

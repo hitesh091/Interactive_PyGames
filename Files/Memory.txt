@@ -1,0 +1,8 @@
+Mini-project description - Memory
+
+=================================================
+
+A single player game in which you have to guess all the same number pairs in two card flips. The correct guessed pair will remain open otherwise they flip back to initial position(BLIND MODE).
+Guess all pairs in minimum number of card flips and you are done!
+
+Note: Graphics are provided by the coursera team but implementation is mine :P.

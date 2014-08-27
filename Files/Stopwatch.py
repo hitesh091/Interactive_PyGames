@@ -1,7 +1,7 @@
 #==========To run, click the link below================#
 
 ##########################################################
-http://www.codeskulptor.org/#user30_y4d8oRnCY3EEYjU_2.py
+#http://www.codeskulptor.org/#user30_y4d8oRnCY3EEYjU_2.py#
 ##########################################################
 
 # template for "Stopwatch: The Game"
